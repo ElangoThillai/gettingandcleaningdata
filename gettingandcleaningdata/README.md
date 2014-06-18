@@ -11,8 +11,8 @@ This part has been tested with Windows 7.  If you have different operating syste
 download and unzip the file. 
 set the current working directory using the command setwd("./UCI HAR Dataset/") and run Part-2
 
-## Source of data for the project:
-## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Source of data for the project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
 
@@ -34,25 +34,6 @@ The read takes about 53 seconds from the files.
 The script creates 2 files:
 
 C:\Clean_Data\UCI HAR Dataset>DIR
- Volume in drive C has no label.
- Volume Serial Number is F48F-7E00
-
- Directory of C:\Clean_Data\UCI HAR Dataset
-
-05/25/2014  04:53 PM    <DIR>          .
-05/25/2014  04:53 PM    <DIR>          ..
-05/25/2014  04:49 PM                80 activity_labels.txt
-05/25/2014  04:53 PM           225,171 data_set_with_the_averages.txt
-05/25/2014  04:49 PM            15,785 features.txt
-05/25/2014  04:49 PM             2,809 features_info.txt
-05/25/2014  05:15 PM         8,348,196 merged_clean_data.txt
-05/25/2014  04:49 PM             4,453 README.txt
-05/25/2014  04:49 PM    <DIR>          test
-05/25/2014  04:49 PM    <DIR>          train
-               6 File(s)      8,596,494 bytes
-               4 Dir(s)  38,818,164,736 bytes free
-
-
 
 
 1) merged_clean_data.txt:  10299 rows x 68 columns
