@@ -1,5 +1,5 @@
 # run_analysis.R
-# --------------
+# ---------------
 # Project - Gettig and Cleaning Data
 # -----------------------------------
 # Source of data for the project:

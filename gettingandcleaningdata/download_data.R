@@ -1,5 +1,5 @@
 # download_data.R
-# --------------
+# ---------------
 # Project - Gettig and Cleaning Data
 # -----------------------------------
 # Source of data for the project:
