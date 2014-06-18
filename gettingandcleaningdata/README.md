@@ -11,8 +11,8 @@ This part has been tested with Windows 7.  If you have different operating syste
 download and unzip the file. 
 set the current working directory using the command setwd("./UCI HAR Dataset/") and run Part-2
 
-# Source of data for the project:
-# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+## Source of data for the project:
+## https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
 
